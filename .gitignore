@@ -1,0 +1,15 @@
+# mac file system
+.DS_Store
+
+# ide
+.idea/
+.vscode/
+
+# python
+__pycache__/
+
+# python virtual env
+venv/
+
+# c
+*.o
