@@ -1,5 +1,3 @@
-# LeetCode 141 中的 while 循环优化
-
 ## LeetCode 141 分析
 
 题目是判断链表是否有环. 
